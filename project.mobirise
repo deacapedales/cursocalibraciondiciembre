@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Landing prueba",
-    "currentPage": "page1.html",
+    "currentPage": "landing.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -570,9 +570,9 @@
         }
       ]
     },
-    "page1.html": {
+    "landing.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
+        "meta_descr": "Inscribite a nuestro curso de calibración de instrumentos eléctricos. Traé tu instrumento y llevatelo calibrado por vos mismo.\nSe dicta el 1/12/2018 en Music Hub Palermo. Cupos Limitados",
         "title": "Insripción a Curso de Calibración",
         "order": 1
       },
