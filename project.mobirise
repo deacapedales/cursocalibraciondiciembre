@@ -42,7 +42,7 @@
         "file": "@PROJECT_PATH@/fonts/theboldfont/font.ttf"
       }
     ],
-    "uniqCompNum": 18,
+    "uniqCompNum": 40,
     "versionPublish": "4.8.4",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-de-ac-01-128x125.png",
